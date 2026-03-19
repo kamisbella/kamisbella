@@ -1,11 +1,12 @@
 ## Bem vindo(a) ao devkamis
 
-tec. Informática 2/3
+tec. Informática 2/3 ⚡
 
 bailarina <3
 
 i love matemática
 
+Patrocínio-Mg
 <!--
 **kamisbella/kamisbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
