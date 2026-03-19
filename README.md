@@ -4,7 +4,7 @@ tec. Informática 2/3 ⚡
 
 bailarina <3
 
-i love matemática
+eu amo filmes e músicas
 
 Patrocínio-Mg
 <!--
