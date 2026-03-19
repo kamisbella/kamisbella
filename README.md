@@ -1,4 +1,8 @@
-## Oii
+## devkamis
+
+tec. Informática 2/3
+bailarina
+i love matemática
 
 <!--
 **kamisbella/kamisbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
