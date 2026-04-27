@@ -1,4 +1,4 @@
-## Bem vindo(a) ao devkamis
+## Bem vindo(a) ao DIVaKamis
 
 tec. Informática 2/3 ⚡
 
