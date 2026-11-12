@@ -1,7 +1,7 @@
 ## Bem vindo(a) ao DIVaKamis
 
 tec. Informática 2/3 ⚡
-R&B music
+
 
 
 <!--
